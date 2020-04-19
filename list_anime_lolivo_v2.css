@@ -1,0 +1,163 @@
+/* --- LIST ANIME LOLIVO v2 --- */
+.genres{margin:0;margin-bottom: 15px;background: #fafafa;padding:10px;overflow:hidden;color:#607d8b;list-style:disc;}
+.genres li{width:20%;margin-left:25px;line-height:24px;float:left}
+.genres li a{color:#333}
+.daftarkartun{overflow:hidden;}
+.navlist{overflow:hidden;margin-bottom:15px;}
+.navlist .l{}
+.navlist .r{float:right}
+.navlist ul{padding:0;margin:0;list-style:none;overflow:hidden}
+.navlist ul li{float:right;margin:0 2.5px}
+.navlist ul li a{background:#4c4f51;display:block;border-radius:3px;padding:3px 8px;color:#FFF}
+.navlist .r ul li a{background:#e91e63}
+.nav_apb{-webkit-font-smoothing:antialiased!important;text-align:center}
+.nav_apb a{padding: 3px 0px;width: 22px;margin: 0 2px;border-radius:4px;text-align:center;display:inline-block;font-weight:700;background:#009688;color:#FFF;}
+.nav_apb a:hover{background:#FFF;color:#333}
+.daftarkartun{overflow:hidden;}
+.abjtext{padding:0;text-align:center;margin:0;margin-top:3px;margin-bottom:10px;}
+.abjtext a{display:block;font-weight:700;padding:4px 1px;width: 20.9px;color:#fff;font-size:11px;float:left;margin:1px;background:#444;}
+.abjtext a:hover{text-decoration:none;background:#222;}
+#abtext{overflow:hidden;}
+.bariskelom{position:relative;margin-bottom:10px;}
+.jdlbar ul {
+    padding-left: 25px;
+    display: list-item;
+    color: #333;
+    list-style-type: disc;
+}
+.barispenz{
+    display: block;
+    margin-bottom: 8px;
+    border-bottom: 0;
+    border-radius: 5px;
+    overflow: hidden;
+    background: #3367d6;
+}
+.barispenz a{
+    font-weight: 700;
+    font-size: 15px;
+    padding: 5px 15px;
+    background: #2850a7;
+    color: #FFF;
+    display: inline-block;
+}
+.pagelist h1{font-size:13px;font-weight:bold;}
+.pagelist{overflow:hidden;padding:8px;margin-top:5px;margin-bottom:12px;font-weight:bold;background:#2881cc;text-align:center;border:1px solid #2881cc;}
+.pagelist:hover{background:#2881cc;border:1px solid #2881cc;}
+pagelist h1{font-size:12px;}
+.pagelist a{color:#fff;}
+.penzbar{
+    line-height: 25px;
+    color: #ccc;
+    padding-right: 10px;
+}
+.jdlbar{line-height:21px;font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;float: left;width: 50%;}
+.jdlbar ul li{color: #29b6f6;}
+.jdlbar a{font-size: 11px;color: #000;font-family:sans-serif;text-overflow:ellipsis;overflow:hidden;white-space:normal;font-weight: bold;}
+.jdlbar a:hover{;}
+#animelist{overflow:hidden;}
+#animelist h2{font-size:14px;padding:3px 0;margin-bottom:5px;border-bottom:4px solid #343434;}
+#a-z{overflow:hidden;}
+.letter-group{height:auto;margin: 0 0 0px;overflow:hidden;}
+.letter-cell{font-weight:700;padding: 6px 12px;background: #2196f3;margin-bottom:5px;}
+.letter-cell a{color: #fff;font-size:14px;display:block;}
+.title-cell{line-height:18px;margin-right:7px;text-overflow:ellipsis;white-space:nowrap;}
+.title-cell li{list-style:none;}
+.title-cell a{color:#333;font-weight:bold;}
+.title-cell a:hover{text-decoration:none;color:#e34e85;}
+
+.wrapper {
+    overflow: hidden;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("images/img.jpg");
+    background-size: cover;
+    -webkit-filter: blur(30px);
+    z-index: -999;
+
+}
+.subWrap:nth-child(1) , .subWrap:nth-child(3)  {
+    margin-left: 2px;
+    margin-bottom: 7px;
+    }
+.subWrap:nth-child(2)  {
+    margin-left: 10px;
+}
+.widget-title_top_top {
+    font-weight: bold;
+    padding: 8px;
+    font-size: 14px;
+    text-align: center;
+    background: #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    margin-bottom: 11px;
+    box-shadow: 0 2px 0 0 #d7dbe3;
+    overflow: hidden;
+}
+.subWrap {
+    display: flex;
+    height: 200px;
+    width: 49.3%;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    box-shadow: 1px 3px 8px #0000001a;
+}
+.text p{font-size:11px}
+.text {
+    background-color: #fff;
+    line-height: 18px;
+    padding: 10px;
+    font-size: 11px;
+}
+.text h3 {
+}
+.imgtitle {
+    text-align: center;
+    position: absolute;
+    line-height: normal;
+    color: #fff;
+    font-weight: 700;
+    font-size: 9px;
+    padding: 9px 0px;
+    width: 306px;
+    top: 172px;
+    margin-left: -51px;
+    background: #000000a8;
+}
+.imgtitle:before{
+      content: '';
+      display: block;
+      position: absolute;
+      left: -9px;
+      border-bottom: solid 29px #000000a8;
+      border-left: solid 8px transparent;
+      position: absolute;
+      width: 1px;
+      bottom: -1px;
+      overflow: hidden;
+}
+.imgtitle a{color:#fff}
+.img {
+    border-bottom: 200px solid transparent;
+    border-left: 60px solid white;
+    width: 48%;
+    position: relative;
+    float: left;
+}
+.img img {
+    height: 200px;
+    position: relative;
+    z-index: -999;
+    transform: translateX(-142px);
+    width: 403px;
+}
