@@ -1,4 +1,5 @@
 /* --- LIST ANIME LOLIVO v2 --- */
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i');
 .genres{margin:0;margin-bottom: 15px;background: #fafafa;padding:10px;overflow:hidden;color:#607d8b;list-style:disc;}
 .genres li{width:20%;margin-left:25px;line-height:24px;float:left}
 .genres li a{color:#333}
@@ -11,7 +12,7 @@
 .navlist ul li a{background:#4c4f51;display:block;border-radius:3px;padding:3px 8px;color:#FFF}
 .navlist .r ul li a{background:#e91e63}
 .nav_apb{-webkit-font-smoothing:antialiased!important;text-align:center}
-.nav_apb a{padding: 3px 0px;width: 22px;margin: 0 2px;border-radius:4px;text-align:center;display:inline-block;font-weight:700;background:#2282d6;color:#FFF;}
+.nav_apb a{padding: 3px 0px;width: 22px;height: 21px;font: 13px Roboto, arial;margin: 0 2px;border-radius:4px;text-align:center;display:inline-block;font-weight:700;background:#2282d6;color:#FFF;}
 .nav_apb a:hover{background:#FFF;color:#333}
 .daftarkartun{overflow:hidden;}
 .abjtext{padding:0;text-align:center;margin:0;margin-top:3px;margin-bottom:10px;}
