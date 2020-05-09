@@ -22,9 +22,3 @@
 .dark .download{background: #333333;}
 .dark .download ul a{color:#fff;}
 .download i{visibility: hidden;}
-
-/* Papan Pengumuman */
-.anon{margin:0 auto;position:relative;margin-top: auto;margin-bottom: 10px;background: #2282d6;padding:10px 35px;border-radius:5px;color:#FFF;line-height:18px;text-align:center;overflow:hidden;font-weight: bold;font-size: 13px;box-shadow: 1px 3px 8px #0000001a;max-width: 1080px;}
-.anon a{font-weight:bold;color:#FFF}
-.anon::before{font-family:&#39;dashicons&#39;;line-height:normal;font-weight:normal;content:&quot;\f488&quot;;font-size:30px;color: #fff;top:5px;left:5px;position:absolute;}
-.anon::after{font-family:&#39;dashicons&#39;;line-height:normal;font-weight:normal;content:&quot;\f488&quot;;color: #fff;font-size:30px;right:5px;top:5px;position:absolute;transform:scale(-1,1);}
