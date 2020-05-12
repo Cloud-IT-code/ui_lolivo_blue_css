@@ -1,0 +1,36 @@
+{
+  "short_name": "Lolivo",
+  "name": "Lolivo - Download dan Streaming Anime BD Sub Indo",
+  "icons": [
+	{
+    "src": "https://2.bp.blogspot.com/-RuCOdHMaqAk/Xrpg8crAxWI/AAAAAAAACGg/q6UqWlXPF1sc3vNAlrhjM_TSGnZqyBuVACK4BGAYYCw/s128-c/Avatar.png",
+    "type": "image/png",
+    "sizes": "128x128"
+	}, 
+	{
+    "src": "https://2.bp.blogspot.com/-RuCOdHMaqAk/Xrpg8crAxWI/AAAAAAAACGg/q6UqWlXPF1sc3vNAlrhjM_TSGnZqyBuVACK4BGAYYCw/s144-c/Avatar.png",
+    "type": "image/png",
+    "sizes": "144x144"
+	}, 
+	{
+    "src": "https://2.bp.blogspot.com/-RuCOdHMaqAk/Xrpg8crAxWI/AAAAAAAACGg/q6UqWlXPF1sc3vNAlrhjM_TSGnZqyBuVACK4BGAYYCw/s152-c/Avatar.png",
+    "type": "image/png",
+    "sizes": "152x152"
+	}, 
+    {
+      "src": "https://2.bp.blogspot.com/-RuCOdHMaqAk/Xrpg8crAxWI/AAAAAAAACGg/q6UqWlXPF1sc3vNAlrhjM_TSGnZqyBuVACK4BGAYYCw/s192-c/Action.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-RuCOdHMaqAk/Xrpg8crAxWI/AAAAAAAACGg/q6UqWlXPF1sc3vNAlrhjM_TSGnZqyBuVACK4BGAYYCw/s512-c/Avatar.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://lolivo2.blogspot.com",
+  "background_color": "#2282d6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2282d6"
+}
