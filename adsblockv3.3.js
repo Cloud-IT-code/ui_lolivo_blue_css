@@ -4,7 +4,7 @@ function adBlockClose() {
 }
 
 function adBlockDetected() {
-    document.getElementById("WgD").classList.add("is-detected"),document.getElementById("idpe").classList.add("idecla"), document.body.classList.add("ab-is-detected")
+    document.getElementById("WgD").classList.add("is-detected"),document.getElementById("idpo").classList.add("idecla"), document.body.classList.add("ab-is-detected")
 }
 if ("undefined" != typeof fuckAdBlock || "undefined" != typeof FuckAdBlock) adBlockDetected();
 else {
